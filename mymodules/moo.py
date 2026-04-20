@@ -1,4 +1,5 @@
 from .. import loader, utils
+from telethon import events
 import asyncio
 
 # meta developer: @unnv_4k
